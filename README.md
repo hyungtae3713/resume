@@ -11,6 +11,7 @@
 * `promise` 예전에 공부할 때, [https://www.promisejs.org/](https://www.promisejs.org/)를 번역하여 [풀리퀘스트](https://github.com/ForbesLindesay/promisejs.org/pull/44)
 * `es5,6,7` 대부분의 패턴 및 syntax 인지. generator(with [co](https://github.com/tj/co))나 async-await를 이용한 비동기처리 익숙
 * `angular, angularjs`
+* `rxjs`
 * `node`
 * `express`
 * `restful API design`

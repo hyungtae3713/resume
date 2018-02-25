@@ -1,5 +1,5 @@
 ## I'm
-* 아직까진 **30세**
+* 아직까진 **31세**
 * **자바스크립트** 개발자
 * 경력 **2년** 주니어
 * O K ! **ANY 포지션**(frontend, backend), 하지만 현재 React를 적용해 볼 수 있는 포지션을 선호
@@ -34,6 +34,7 @@
 * `socket I/O, firebase` 간단한 채팅 구현
 * `scss(sass)`
 * `reactjs, redux, redux-saga, react-router, webpack` 이직준비 기간동안 공부하고 있고 [개인 프로젝트](https://github.com/hyungtae3713/react-fullstack-skeleton) 진행 중
+* `vuejs` 
 * `graphql, apollo` 아직 우리나라에서 실무로 사용되는 곳을 찾아보기 힘듬. [twitch](https://www.twitch.tv)는 소스 까보니 이걸로 구현되어있던데...또르르..
 
 ## I can't

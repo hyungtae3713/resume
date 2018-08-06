@@ -34,7 +34,7 @@
 * `socket I/O, firebase` 간단한 채팅 구현
 * `scss(sass)`
 * `reactjs, redux, redux-saga, react-router, webpack` 공부하고 만든 [보일러플레이트 프로젝트](https://github.com/hyungtae3713/react-fullstack-skeleton)
-* `react-native, expo, mobX, Firebase(Cloud store, Authentication, Crashlytic), Fabric` - 개인 프로젝트 [ios Version](https://itunes.apple.com/kr/app/%EC%9D%BC%EB%B6%84%EC%9D%BC%EC%B4%88/id1415491326?mt=8) [android Version](https://play.google.com/store/apps/details?id=com.htkim.s1m1)
+* `react-native, expo, mobX, Firebase(Cloud store, Authentication, Crashlytic), Fabric` - 개인 프로젝트 [IOS Version](https://itunes.apple.com/kr/app/%EC%9D%BC%EB%B6%84%EC%9D%BC%EC%B4%88/id1415491326?mt=8), [Android Version](https://play.google.com/store/apps/details?id=com.htkim.s1m1)
 * `vuejs`
 * `graphql, apollo` 아직 우리나라에서 실무로 사용되는 곳을 찾아보기 힘듬. [twitch](https://www.twitch.tv)는 소스 까보니 이걸로 구현되어있던데...또르르..
 

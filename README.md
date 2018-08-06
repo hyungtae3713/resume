@@ -10,7 +10,7 @@
 * `javascript` 주언어. 오픈소스 까보고 흐름파악/패턴분석 하는거 좋아함
 * `promise` 예전에 공부할 때, [https://www.promisejs.org/](https://www.promisejs.org/)를 번역하여 [풀리퀘스트](https://github.com/ForbesLindesay/promisejs.org/pull/44)
 * `es5,6,7` 대부분의 패턴 및 syntax 인지. generator(with [co](https://github.com/tj/co))나 async-await를 이용한 비동기처리 익숙
-* `angular, angularjs`
+* `Angular, angularjs`
 * `rxjs`
 * `node`
 * `express`
@@ -33,8 +33,9 @@
 * `phonegap, senchatouch` 오래 전 개인프로젝트로 하이브리드 앱 개발해 봄
 * `socket I/O, firebase` 간단한 채팅 구현
 * `scss(sass)`
-* `reactjs, redux, redux-saga, react-router, webpack` 이직준비 기간동안 공부하고 있고 [개인 프로젝트](https://github.com/hyungtae3713/react-fullstack-skeleton) 진행 중
-* `vuejs` 
+* `reactjs, redux, redux-saga, react-router, webpack` 공부하고 만든 [보일러플레이트 프로젝트](https://github.com/hyungtae3713/react-fullstack-skeleton)
+* `react-native, expo, mobX, Firebase(Cloud store, Authentication, Crashlytic), Fabric` - 개인 프로젝트 [ios Version](https://itunes.apple.com/kr/app/%EC%9D%BC%EB%B6%84%EC%9D%BC%EC%B4%88/id1415491326?mt=8) [android Version](https://play.google.com/store/apps/details?id=com.htkim.s1m1)
+* `vuejs`
 * `graphql, apollo` 아직 우리나라에서 실무로 사용되는 곳을 찾아보기 힘듬. [twitch](https://www.twitch.tv)는 소스 까보니 이걸로 구현되어있던데...또르르..
 
 ## I can't

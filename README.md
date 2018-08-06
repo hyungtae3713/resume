@@ -26,7 +26,7 @@
 * `docker, docker-compose, docker-swarm` 중국 인프라구축 프로젝트에서 이 기술들을 파악하고 전파하는 역할을 했는데, 해당 프로젝트가 끝난 뒤, 급속도로 초기화 진행 in my Head...
 * `aws` 개념은 있지만 실무 인프라를 직접 컨트롤하지 않았음
 >실무는 아니지만 공부해 봤어요
-* `java, servlet, jsp, c, c++, ruby, python` java는 나의 2년 전 주언어
+* `java, servlet, jsp, c, c++, ruby, python` java는 나의 3년 전 주언어
 * `apache tomcat`
 * `android` 티아카데미 전문가 과정을 수료하였고 알바로 어플 몇 개 만들어 본 적 있음
 * `jquery, jquerymobile`

@@ -19,7 +19,7 @@
 * `redis, mysql, postgreSQL`
 * `elasticsearch`
 * `mocha, chai, protractor` 모듈 개발시, 테스트 코드 작성 및 통과 후 배포
-* `grunt` 서비스 개발/배포에 필요한 빌드 구현
+* `grunt, webpack` 서비스 개발/배포에 필요한 빌드 구현
 * `typescript` 크롤러 개발에 사용
 * `selenium` 크롤러 개발에 사용
 * `less, sass`
@@ -33,8 +33,7 @@
 * `jquery, jquerymobile`
 * `phonegap, senchatouch` 오래 전 개인프로젝트로 하이브리드 앱 개발해 봄
 * `socket I/O, firebase` 간단한 채팅 구현
-* `scss(sass)`
-* `reactjs, redux, redux-saga, react-router, webpack` 공부하고 만든 [보일러플레이트 프로젝트](https://github.com/hyungtae3713/react-fullstack-skeleton)
+* `reactjs, redux, redux-saga, react-router` 공부하고 만든 [보일러플레이트 프로젝트](https://github.com/hyungtae3713/react-fullstack-skeleton)
 * `react-native, expo, mobX, Firebase(Cloud store, Authentication, Crashlytic), Fabric` [개인 프로젝트](https://github.com/hyungtae3713/resume/wiki/%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%95%B1%EA%B0%9C%EB%B0%9C-with-ReactNative(%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8))
 * `graphql, apollo` 아직 우리나라에서 실무로 사용되는 곳을 찾아보기 힘듬. [twitch](https://www.twitch.tv)는 소스 까보니 이걸로 구현되어있던데...또르르..
 

@@ -1,16 +1,17 @@
 ## I'm
-* 아직까진 **31세**
+* 아직까진 **32세**
 * **자바스크립트** 개발자
 * 경력 **2년** 주니어
 * O K ! **ANY 포지션**(frontend, backend), 하지만 현재 React를 적용해 볼 수 있는 포지션을 선호
-* 첫 직장이자 이전 직장 [파우컴퍼니](http://www.pawcompany.co.kr/) 에서 소프트웨어 엔지니어로 **2015/11-2017/10월** 까지 일함
-
+* 첫 직장이자 이전 직장 [파우컴퍼니](http://www.pawcompany.co.kr/) 에서 소프트웨어 엔지니어로 **2015년11월~2017년10월** 까지 일함
+* **2018년11월~현재** **소다크루** 소속
 ## I can
 > 실무에서 사용했어요
 * `javascript` 주언어. 오픈소스 까보고 흐름파악/패턴분석 하는거 좋아함
 * `promise` 예전에 공부할 때, [https://www.promisejs.org/](https://www.promisejs.org/)를 번역하여 [풀리퀘스트](https://github.com/ForbesLindesay/promisejs.org/pull/44)
 * `es5,6,7` 대부분의 패턴 및 syntax 인지. generator(with [co](https://github.com/tj/co))나 async-await를 이용한 비동기처리 익숙
-* `Angular, angularjs`
+* `Angular, angularjs, vuejs`
+* `nuxtjs, serverless`
 * `rxjs`
 * `node`
 * `express`
@@ -21,7 +22,8 @@
 * `grunt` 서비스 개발/배포에 필요한 빌드 구현
 * `typescript` 크롤러 개발에 사용
 * `selenium` 크롤러 개발에 사용
-* `less`
+* `less, sass`
+* `AWS lambda, route53, cloudfront, s3, sqs`
 >실무에서 해봤지만 익숙하진 않아요
 * `docker, docker-compose, docker-swarm` 중국 인프라구축 프로젝트에서 이 기술들을 파악하고 전파하는 역할을 했는데, 해당 프로젝트가 끝난 뒤, 급속도로 초기화 진행 in my Head...
 * `aws` 개념은 있지만 실무 인프라를 직접 컨트롤하지 않았음
@@ -35,7 +37,6 @@
 * `scss(sass)`
 * `reactjs, redux, redux-saga, react-router, webpack` 공부하고 만든 [보일러플레이트 프로젝트](https://github.com/hyungtae3713/react-fullstack-skeleton)
 * `react-native, expo, mobX, Firebase(Cloud store, Authentication, Crashlytic), Fabric` 최근 진행 중인 [개인 프로젝트](https://github.com/hyungtae3713/resume/wiki/%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%95%B1%EA%B0%9C%EB%B0%9C-with-ReactNative(%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8))
-* `vuejs`
 * `graphql, apollo` 아직 우리나라에서 실무로 사용되는 곳을 찾아보기 힘듬. [twitch](https://www.twitch.tv)는 소스 까보니 이걸로 구현되어있던데...또르르..
 
 ## I can't

@@ -1,5 +1,4 @@
 ## I'm
-* 아직까진 **32세**
 * **자바스크립트** 개발자
 * 경력 **3년**(만)
 * **ANY 포지션**(frontend, backend) can do!
@@ -10,7 +9,9 @@
 * `javascript` 주언어. 오픈소스 까보고 흐름파악/패턴분석 하는거 좋아함
 * `promise` 예전에 공부할 때, [https://www.promisejs.org/](https://www.promisejs.org/)를 번역하여 [풀리퀘스트](https://github.com/ForbesLindesay/promisejs.org/pull/44)
 * `es5,6,7` 대부분의 패턴 및 syntax 인지. generator(with [co](https://github.com/tj/co))나 async-await를 이용한 비동기처리 익숙
-* `Angular, angularjs, vuejs`
+* `react-native, mobX, expo`
+* `circleCI, fastlane` 네이티브앱 각 스테이지, 플랫폼별 배포자동화 구현
+* `Angular, angularjs, vuejs, reactjs`
 * `nuxtjs, serverless`
 * `rxjs`
 * `node`
@@ -23,7 +24,8 @@
 * `typescript` 크롤러 개발에 사용
 * `selenium` 크롤러 개발에 사용
 * `less, sass`
-* `AWS lambda, route53, cloudfront, s3, sqs`
+* `AWS lambda, route53, cloudfront, s3, sqs, Firebase`
+
 >실무에서 해봤지만 익숙하진 않아요
 * `docker, docker-compose, docker-swarm` 중국 인프라구축 프로젝트에서 이 기술들을 파악하고 전파하는 역할을 했는데, 해당 프로젝트가 끝난 뒤, 급속도로 초기화 진행 in my Head...
 >실무는 아니지만 공부해 봤어요
@@ -33,7 +35,7 @@
 * `jquery, jquerymobile`
 * `phonegap, senchatouch` 오래 전 개인프로젝트로 하이브리드 앱 개발해 봄
 * `socket I/O, firebase` 간단한 채팅 구현
-* `reactjs, redux, redux-saga, react-router` 공부하고 만든 [보일러플레이트 프로젝트](https://github.com/hyungtae3713/react-fullstack-skeleton)
+* `redux, redux-saga, react-router` 공부하고 만든 [보일러플레이트 프로젝트](https://github.com/hyungtae3713/react-fullstack-skeleton)
 * `react-native, expo, mobX, Firebase(Cloud store, Authentication, Crashlytic), Fabric` [개인 프로젝트](https://github.com/hyungtae3713/resume/wiki/%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%95%B1%EA%B0%9C%EB%B0%9C-with-ReactNative(%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8))
 * `graphql, apollo` 아직 우리나라에서 실무로 사용되는 곳을 찾아보기 힘듬. [twitch](https://www.twitch.tv)는 소스 까보니 이걸로 구현되어있던데...또르르..
 
